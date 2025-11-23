@@ -60,7 +60,7 @@ A social media web application built with **Next.js** that helps users browse cl
 npm run dev
 http://localhost:3000
 ```
-
+## Project Structure
 ```bash
 Style_Board_Dev/
 │
